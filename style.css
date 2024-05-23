@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "jacques";
+    src: url("./font/JacquesFrancoisShadow-Regular.ttf");
+}
+    @font-face {
+        font-family: "originalsurfer";
+        src: url("./font/OriginalSurfer-Regular.ttf");
+    }
+    @font-face {
+        font-family: "play-regular";
+        src: url("./font/Play-Regular.ttf");
+
+    }
+
+h2 {
+    font-family: "jacques";   
+}
+
+
+p {
+    font-family: "originalsurfer";
+}
+
+span {
+    font-family: "play-regular";
+}
